@@ -7,7 +7,7 @@ License
 
 
 
-##Description
+## Description
 
 * The application frontend has already been created, it's your job to build the backend and connect the two.
 
@@ -27,7 +27,7 @@ License
 
   * DELETE `/api/notes/:id` - Should receive a query parameter containing the id of a note to delete. This means you'll need to find a way to give each note a unique `id` when it's saved. In order to delete a note, you'll need to read all notes from the `db.json` file, remove the note with the given `id` property, and then rewrite the notes to the `db.json` file.
   
-##User Story
+## User Story
 
 #This is a note-taking application makes life easy! 
 
@@ -55,6 +55,6 @@ WHEN you click on the Write icon in the navigation at the top of the page
 
 THEN you will presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
-##VISUALS
+## VISUALS
 
 ![alt text](https://james-fisher-web-developer.com/media/note-taker-1.png)
