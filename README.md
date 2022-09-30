@@ -27,4 +27,4 @@ WHEN you click on the Write icon in the navigation at the top of the page
 THEN you will presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 
-![alt text]([https://ibb.co/r3wSCJy](https://ibb.co/r3wSCJy%22%3E%3Cimg%20src=%22https://i.ibb.co/cwrHGdT/Screen-Shot-2022-09-29-at-11-32-24-PM.png%22%20alt=%22Screen-Shot-2022-09-29-at-11-32-24-PM%22%20border=%220%22))
+![alt text](https://james-fisher-web-developer.com/media/note-taker-1.png)
